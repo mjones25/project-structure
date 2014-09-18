@@ -14,7 +14,7 @@ This assignment is worth **15 points.**
 
 In terms of creating a well-structured document, we will be looking for the following:
 
-- Valid HTML (which can be checked using the W3C HTML Validator)
+- Valid HTML (which can be checked using the [W3C HTML Validator](http://validator.w3.org/))
 - Presence of HTML5 structural tags
 - Proper use of hierarchical h1-h6 tags
 - Properly encoded special characters
