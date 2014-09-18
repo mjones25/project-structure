@@ -29,9 +29,11 @@ To demonstrate proficiency using hypertext, the document also should include:
 
 By now you should have all required software installed on your computer and familiarity with the command line and git. You should also have an account on GitHub and have worked through the tutorial to create your GitHub Pages repository (`username.github.io` where username is your GitHub username).
 
-You are to commit your résumé as `resume.html` to your `username.github.io` repo and **e-mail me the link to your `username.github.io` repo by the deadline**.
+You are to commit your résumé as `resume.html` to your `username.github.io` repo.
 
-Because email servers can have their hiccups, do not wait until 2:59 p.m. to send your URL. If you would like confirmation your assignment has been received, be sure to check the "request a delivery receipt" option in Outlook.
+**[Create an issue](https://github.com/thegeekprof/project-structure/issues) in this repo with <em>your name</em> and a link to your <em>username.github.io</em> repo by the deadline**.
+
+Do not wait until 2:59 p.m. to send your URL. If you would like confirmation your assignment has been received, be sure to check the "request a delivery receipt" option in Outlook.
 
 ###Grading
 
