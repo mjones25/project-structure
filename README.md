@@ -33,7 +33,7 @@ You are to commit your résumé as `resume.html` to your `username.github.io` re
 
 **[Create an issue](https://github.com/thegeekprof/project-structure/issues) in this repo with <em>your name</em> and a link to your <em>username.github.io</em> repo by the deadline**.
 
-Do not wait until 2:59 p.m. to send your URL. If you would like confirmation your assignment has been received, be sure to check the "request a delivery receipt" option in Outlook.
+Do not wait until 2:59 p.m. to submit your URL.
 
 ###Grading
 
